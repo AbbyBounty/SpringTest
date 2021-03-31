@@ -9,4 +9,6 @@
 
 
 # Note:
-
+    REST api postman collection : SpringTest.postman_collection.json
+    Database File: SpringTest.sql
+    Original spring boot project: Exam folder
